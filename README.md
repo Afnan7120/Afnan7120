@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front End developer</p>
+<p align="center">Front End developer</p>
 
 ###
 

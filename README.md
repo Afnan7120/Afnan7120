@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo0aDAwcGp5NHFuanZzbXZxd3NvcjZ2bnNocmcwNnp2aDRmamd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp"  />
+</div>
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
@@ -34,9 +40,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWo0aDAwcGp5NHFuanZzbXZxd3NvcjZ2bnNocmcwNnp2aDRmamd1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp"  />
-</div>
+<h2 align="left">Connect with me</h2>
 
 ###
 
